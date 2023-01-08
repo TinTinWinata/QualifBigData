@@ -1,0 +1,3 @@
+- Query Analysis Nomor 2 Diganti
+- Query Analysis Nomor 5 Dijadikan CASE When
+- Data Visualization -> Ditambahkan Konklusi
